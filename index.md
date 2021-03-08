@@ -8,7 +8,7 @@ My knowledge of the computer science field has grown so much within the last few
 
 ### Code Review link to video
 
-<a href="https://https://youtu.be/laQ9A8wF2XA">Walkthrough Code Review</a>
+<a href="https://youtu.be/laQ9A8wF2XA">Walkthrough Code Review</a>
 
 ### Software Design and Engineering
 
