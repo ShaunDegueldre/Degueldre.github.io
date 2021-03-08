@@ -7,7 +7,8 @@
 My knowledge of the computer science field has grown so much within the last few years. Prior to going back to school, the most I was capable of was creating a small network in home.  Not only have I learned fundamental concepts such as data structures & algorithms, software engineering and databases, but also tools used to help with development in a given project with a team of developers and testers. These tools include using bitbucket for version control and git to push/pull code on my local machine. I also have experience in utilizing agile for the Software Development Lifecycle. Since deciding to become a computer science major I have added a second concentration on to my degree in Cyber Security.  I have also studied Machine Learning, and Augmented Reality. I have multiple side projects all within the field of computer science. Some of those said projects include raspberry pi development as I have taken what I have learned to create some home devices with IoT and creating a web application. Below are files that showcase my skills within software development. I have organized them into four separate categories that highlights my skillset as a developer.
 
 ### Code Review link to video
-https://youtu.be/laQ9A8wF2XA
+
+<a href="https://https://youtu.be/laQ9A8wF2XA">Walkthrough Code Review</a>
 
 ### Software Design and Engineering
 
